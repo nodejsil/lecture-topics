@@ -1,5 +1,5 @@
 # Lecture Topics
-This repo is intend for discussing suggested lecture topics (as issues) for the [Israeli Node.js community](http://www.nodejsil.com) monthly meetups.
+This repo is intended for discussing suggested lecture topics (as issues) for the [Israeli Node.js community](http://www.nodejsil.com) monthly meetups.
 
 # Instructions
 If you think of an interesting topic for a lecture you would like to see (or give) then please open an issue - not before making sure an equivalent issue does not already exist.
