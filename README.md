@@ -4,7 +4,7 @@ This repo is intended for discussing suggested lecture topics (as issues) for th
 # Instructions
 If you think of an interesting topic for a lecture you would like to see (or give) then please open an issue - not before making sure an equivalent issue does not already exist.
 
-Lecture topics will be prioritized based popular demand and lecturers availability. Issues unrelated to Node.js topics will be summarily closed.
+Lecture topics will be prioritized based popular demand and lecturers availability. Issues unrelated to Node.js lecture topics will be summarily closed.
 
 If you find yourself or others suitable for giving a specific lecture, please suggest so in the issue comments.
 
